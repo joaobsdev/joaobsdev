@@ -1,2 +1,2 @@
-Sou desenvolvedor Front-End apaixonado por criar experiências digitais criativas, explorando IA, design e interatividade.
+Sou Desenvolvedor Full Stack Júnior e gosto especialmente de transformar ideias em soluções completas. Sou movido por desafios e aprendizado contínuo, por isso estou sempre evoluindo minhas habilidades com o objetivo de fazer a diferença na tecnologia, assim como os gênios que sempre admirei: Steve Jobs e Bill Gates.
 Aqui você encontra meus projetos, ideias e experimentos enquanto cresço na tecnologia. 
