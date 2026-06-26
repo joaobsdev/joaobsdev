@@ -1,2 +1,5 @@
-Sou Desenvolvedor Full Stack em formação, apaixonado por tecnologia, inovação e pela construção de soluções que unem experiência do usuário, sistemas e automação. Gosto de transformar ideias em produtos funcionais, desde a interface até a lógica por trás da aplicação. Estou sempre em busca de novos desafios e aprendizado contínuo, aprimorando minhas habilidades em React, Node.js, TypeScript e Python. Neste perfil, compartilho projetos, experimentos e aprendizados que refletem minha evolução como desenvolvedor e minha busca por criar tecnologia com impacto real.
+Sou  Desenvolvedor Front-End e UX/UI Designer, com um pé no design e outro no código. 
+Atualmente curso Análise e Desenvolvimento de Sistemas e venho expandindo meus conhecimentos para React, Node.js e TypeScript. 
+Já atuei como Gestor de Projetos e Web Designer, liderando demandas digitais, validando layouts no Figma e garantindo entregas alinhadas à experiência do usuário. Também tive experiência em suporte técnico, o que me deu uma visão prática sobre resolução de problemas e atendimento ao usuário.
+Busco oportunidades onde possa contribuir com criatividade, organização e um olhar atento às necessidades reais das pessoas.
 
